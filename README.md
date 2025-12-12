@@ -7,7 +7,7 @@ merupakan aplikasi desktop berbasis **Windows Forms (WinForms)** yang dikembangk
 * **Glosarium lengkap dengan CRUD**
 * **Mode Quiz Pilihan Ganda** (acak setiap kali dibuka)
 
-Aplikasi terdiri dari beberapa form: `MainForm`, `AddForm`, `EditForm`, `QuizForm`, dan `ViewAllForm`, yang saling terhubung melalui controller dan service internal.
+Aplikasi terdiri dari beberapa form: `MainForm`, `AddForm`, `EditForm`, `QuizForm`, yang saling terhubung melalui controller dan service internal.
 
 Agar memenuhi ketentuan mata kuliah, aplikasi ini menerapkan seluruh elemen wajib, di antaranya:
 
@@ -15,7 +15,7 @@ Agar memenuhi ketentuan mata kuliah, aplikasi ini menerapkan seluruh elemen waji
 
 ### 1. Common Controls – (Letak di Source Code & Fungsinya)
 Common controls digunakan untuk membangun antarmuka utama. Semua terdapat dalam:
-📍 `MainForm.cs`, `AddForm.cs`, `EditForm.cs`, `QuizForm.cs`, `ViewAllForm.cs`
+📍 `MainForm.cs`, `AddForm.cs`, `EditForm.cs`, `QuizForm.cs`
 
 | Kontrol | Penggunaan/Lokasi | Fungsi Utama |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Common controls digunakan untuk membangun antarmuka utama. Semua terdapat dalam:
 | **TextBox** | Digunakan untuk memasukkan nama istilah dan definisi. Lokasi: `AddForm.cs` & `EditForm.cs`. | Input teks dari pengguna (istilah & definisi). |
 | **Button** | Dipakai untuk: Tambah, Edit, Hapus, Mulai Quiz, Cek Jawaban, Tampilkan Definisi. Lokasi: semua form. | Memicu event utama aplikasi (aksi pengguna). |
 | **ComboBox** | Digunakan untuk memilih kategori glosarium. Lokasi: `AddForm.cs`, `EditForm.cs`, `MainForm.cs`. | Pemilihan kategori glosarium (**enum**). |
-| **DataGridView** | Digunakan untuk menampilkan seluruh istilah dalam bentuk tabel. Lokasi: `ViewAllForm.cs`. | Tampilan tabel data glosarium secara terstruktur. |
+| **DataGridView** | Digunakan untuk menampilkan seluruh istilah dalam bentuk tabel. | Tampilan tabel data glosarium secara terstruktur. |
 | **RadioButton** | Digunakan pada quiz sebagai opsi jawaban. Lokasi: `QuizForm.cs`. | Memilih jawaban *multiple-choice* (hanya satu). |
 
 ---
