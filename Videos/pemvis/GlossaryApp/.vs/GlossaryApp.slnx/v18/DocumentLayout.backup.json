@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFE922E-FAE6-42E5-AA76-2A7C17722039}|GlossaryApp\\GlossaryApp.csproj|C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CFE922E-FAE6-42E5-AA76-2A7C17722039}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\quizform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\quizform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\glossaryapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\glossaryapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\models\\glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\models\\glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\glossaryapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\glossaryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\glossaryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\addeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\addeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\services\\glossaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\services\\glossaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|c:\\users\\lenovo\\videos\\pemvis\\glossaryapp\\glossaryapp\\models\\glossarycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E5CB82-CF0C-C356-167A-9C1270B36FC9}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\models\\glossarycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFE922E-FAE6-42E5-AA76-2A7C17722039}|GlossaryApp\\GlossaryApp.csproj|C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\glossaryapp\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CFE922E-FAE6-42E5-AA76-2A7C17722039}|GlossaryApp\\GlossaryApp.csproj|solutionrelative:glossaryapp\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "GlossaryApp\\MainForm.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:22:17.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "GlossaryApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:22:00.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.Designer.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\QuizForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.Designer.cs",
+              "RelativeToolTip": "GlossaryApp\\QuizForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:51:26.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlossaryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Models\\GlossaryItem.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\Models\\GlossaryItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Models\\GlossaryItem.cs",
+              "RelativeToolTip": "GlossaryApp\\Models\\GlossaryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:40:02.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs",
+              "RelativeToolTip": "GlossaryApp\\MainForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:42:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "GlossaryApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:42:02.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.cs [Design]",
+              "RelativeToolTip": "GlossaryApp\\QuizForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:51:11.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlossaryApp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\GlossaryApp.csproj",
+              "RelativeDocumentMoniker": "GlossaryApp\\GlossaryApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\GlossaryApp.csproj",
+              "RelativeToolTip": "GlossaryApp\\GlossaryApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T08:55:59.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\QuizForm.cs",
+              "RelativeToolTip": "GlossaryApp\\QuizForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:51:17.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlossaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Services\\GlossaryService.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\Services\\GlossaryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Services\\GlossaryService.cs",
+              "RelativeToolTip": "GlossaryApp\\Services\\GlossaryService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:40:32.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.cs",
+              "RelativeToolTip": "GlossaryApp\\AddEditForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:41:20.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\AddEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.Designer.cs",
+              "RelativeToolTip": "GlossaryApp\\AddEditForm.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:41:12.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlossaryApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\GlossaryApp.csproj",
+              "RelativeDocumentMoniker": "GlossaryApp\\GlossaryApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\GlossaryApp.csproj",
+              "RelativeToolTip": "GlossaryApp\\GlossaryApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T07:40:11.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Glossarycategory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Models\\Glossarycategory.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\Models\\Glossarycategory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\Models\\Glossarycategory.cs",
+              "RelativeToolTip": "GlossaryApp\\Models\\Glossarycategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:39:42.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "GlossaryApp\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlossaryApp\\GlossaryApp\\AddEditForm.cs [Design]",
+              "RelativeToolTip": "GlossaryApp\\AddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:41:09.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
