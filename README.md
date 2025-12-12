@@ -114,7 +114,7 @@ int total = countProgramming + countCloud + countOS;
 ```
 **Fungsinya:** Menghitung jumlah istilah per kategori (menggunakan operator penghitungan/fungsi agregasi) dan menjumlahkan total istilah (menggunakan operator `+`) untuk ditampilkan pada dashboard/statistik.
 
-9. Enumeration (Enum) – (Letak di Source Code & Fungsinya)
+### 9. Enumeration (Enum) – (Letak di Source Code & Fungsinya)
 Enum digunakan untuk mengatur pilihan kategori yang terbatas.
 📍 Models/Category.cs
 ```csharp
@@ -128,7 +128,8 @@ public enum Category
 }
 ```
 Fungsinya: Mengatur kategori glosarium, memastikan input kategori selalu valid, dan menyederhanakan filtering data.
-10. Fitur Utama Aplikasi
+
+### 10. Fitur Utama Aplikasi
 
 a. Glosarium (CRUD)
 Fitur inti ini dikelola melalui GlossaryService.cs (Service Layer):
